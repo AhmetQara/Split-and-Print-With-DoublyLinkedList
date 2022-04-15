@@ -1,2 +1,2 @@
 # Split-and-Print-With-DoublyLinkedList
- Split and print with DoublyLinkedList in C++
+ Split and print (even and odd numbers) with DoublyLinkedList in C++
